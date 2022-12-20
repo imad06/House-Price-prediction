@@ -1,2 +1,2 @@
-# House-Pride-prediction.
+# House-Price-prediction.
 House price prediction
